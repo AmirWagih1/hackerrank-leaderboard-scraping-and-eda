@@ -4,6 +4,8 @@
 Data Exploration on 5080 pages scraped from HackerRank's Leaderboard for 57 different challenges.
 
 
+## [Jupter Notebook](https://www.kaggle.com/code/amirwg/hackerrank-leadeboard-eda)
+
 ## Project Files Appendix
 - Folder: `Webscraper, and Raw Data`:
     - File: `webscraper.ipynb`: Python script used for scraping data from HackerRank
